@@ -1,5 +1,5 @@
-#Created by Shalee Qureshi
-#https://github.com/ShaleeQureshi
+# Created by Shalee Qureshi
+# https://github.com/ShaleeQureshi
 
 Run the program from BusyAirField.java file
 Must be connected to the internet in order for the "How to Play" button to open a link 
