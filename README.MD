@@ -6,7 +6,7 @@ Must be connected to the internet in order for the "How to Play" button to open 
 Do not add or remove anything from the textfiles as it will affect the ability for the program to run  
 
 
-//Files required
+# Files required
 buffer.gif
 cloud.png
 cloudBufferinf.png
@@ -23,4 +23,4 @@ Plane.png
 Plane2.png
 plane3Small.png
 
-//BusyAirField.mp4 is not required but it is the video found on youtube when you click  the "How to Play" button
+BusyAirField.mp4 is not required but it is the video found on youtube when you click  the "How to Play" button
